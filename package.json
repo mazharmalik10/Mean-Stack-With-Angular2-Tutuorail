@@ -1,0 +1,30 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazharmalik10/Mean-Stack-With-Angular2-Tutuorail.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "2",
+    "application"
+  ],
+  "author": "Mazhar Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazharmalik10/Mean-Stack-With-Angular2-Tutuorail/issues"
+  },
+  "homepage": "https://github.com/mazharmalik10/Mean-Stack-With-Angular2-Tutuorail#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  }
+}
